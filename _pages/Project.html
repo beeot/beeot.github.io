@@ -1,14 +1,8 @@
 ---
-layout: categories
+layout: category
 permalink: /Project/
-title: "project list"
+title: "Logging for Purdue Project"
 author_profile: true
 ---
 
-{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date:
-'%Y'" %} {% for year in postsByYear %}
-<h2 id="{{ year.name | slugify }}" class="archive__subtitle">
-  {{ year.name }}
-</h2>
-{% for post in year.items %} {% include archive-single.html %} {% endfor %} {%
-endfor %}
+프로젝트에 대한 로그를 남깁니다.

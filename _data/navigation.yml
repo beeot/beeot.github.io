@@ -1,13 +1,9 @@
 # main links
 main:
-  - title: "GO"
-    url: /Go/
-  - title: "KIM"
-    url: /Kim/
-  - title: "LEE"
-    url: /Lee/
+  - title: "PURDUE DIARY"
+    url: /purdue-diary/
   - title: "PROJECT"
-    url: /Project/
+    url: /project/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
