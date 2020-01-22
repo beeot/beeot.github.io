@@ -3,7 +3,6 @@
    ========================================================================== */
 
 @media print {
-
   [hidden] {
     display: none;
   }
@@ -210,12 +209,12 @@
   }
 
   a.no-reformat:after {
-    content: '';
+    content: "";
   }
 
   abbr[title].no-reformat:after,
   acronym[title].no-reformat:after {
-    content: '';
+    content: "";
   }
 
   .page__hero-caption {
@@ -228,7 +227,7 @@
     }
   }
 
-/*
+  /*
    Hide the following elements on print
    ========================================================================== */
 
