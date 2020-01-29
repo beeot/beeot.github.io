@@ -12,10 +12,12 @@ tags:
 ## Linear Regression
 statsmodels 패키지에서 OLS 클래스를 이용하여 선형회귀분석(Linear Regression)을 구현하였다.
 
-R square : 0.4943950923260919
+
+
+![](https://raw.githubusercontent.com/beeot/beeot.github.io/master/_docs/project/linear_reg_graph.PNG)
 
 
 
 
 
-
+![](https://raw.githubusercontent.com/beeot/beeot.github.io/master/_docs/project/linear_reg_result.PNG)
